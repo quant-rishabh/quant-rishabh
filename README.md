@@ -1,10 +1,22 @@
 ## Hi there 👋
 
-### About Me
-Software Engineer @ Siemens | 4+ years | C++
+## about-me
+I am a software engineer
+Working in Siemens
+around 4 yrs exp
 
-### 📫 Connect With Me
+## Tech
 
-💼 **LinkedIn:** https://www.linkedin.com/in/quant-rishabh
+C++ • Python
 
-📧 **Email:** rishabh.quant@example.com
+## Work
+
+🔭 I’m currently working on core c++ libraries for PLM softwares
+
+Building small system tools & experiments
+
+## Connect
+LinkedIn: [linkedin](https://www.linkedin.com/in/rishabhy/)
+Email: [github](quant.rishabh@gmail.com)
+
+
