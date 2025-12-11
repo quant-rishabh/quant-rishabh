@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**quant-rishabh/quant-rishabh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## about-me
+I am a software engineer
+Working in Siemens
+around 4 yrs exp
 
-Here are some ideas to get you started:
+## Tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+C++ • Python
+
+## Work
+
+🔭 I’m currently working on core c++ libraries for PLM softwares
+
+Building small system tools & experiments
+
+## Connect
+LinkedIn: [linkedin](https://www.linkedin.com/in/rishabhy/)
+Email: [github](quant.rishabh@gmail.com)
+
+
